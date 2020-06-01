@@ -1,10 +1,12 @@
 git status --> prints status of git repository
-git init
+git init --> inits folder as git repository
 git config --global user.name "Mikhail Shapiro"
 git config -- user.email mikhail.shapiro1@gmail.com
 git config user.name "Mikhail Shapiro"
 git config user.email mikhail.shapiro1@gmail.com
-add
+git add --> adds file to repo
 commit -m "Comment"
 git log
 git diff <filename>
+
+sasodjowjdw
