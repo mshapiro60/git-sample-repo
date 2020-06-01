@@ -1,0 +1,10 @@
+git status --> prints status of git repository
+git init
+git config --global user.name "Mikhail Shapiro" --> specify user name (added comment)
+git config -- user.email mikhail.shapiro1@gmail.com
+git config user.name mshapiro_60
+git config user.email mikhail.shapiro1@gmail.com
+add
+commit -m "Comment"
+git log
+git diff <filename>
